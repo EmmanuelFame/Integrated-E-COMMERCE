@@ -2,6 +2,7 @@
 session_start();
 include('server/connection.php');
 
+
 include 'includes/account/accountlogic.php';
 include 'includes/header.php';
 include 'includes/nav.php';
